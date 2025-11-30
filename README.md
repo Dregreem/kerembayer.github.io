@@ -22,7 +22,7 @@ Bu bütüncül yaklaşım doğrultusunda, **mekanik tasarım (SolidWorks, ANSYS)
 **ASIL Laboratuvarları (YTU)** | *Haziran 2024 – Halen*
 * **TÜBİTAK 2209-A** projesi yürütücüsü ve fonlu Akusto-Holografik görüntüleme projesinde liderlik.
 * Yapay Zeka ve optik sistem entegrasyonu ile biyomedikal görüntüleme analizi.
-* *Super-Resolution for Interferometric Imaging* akademik çalışmasında **Baş Yazar (Lead Author)**.
+* *Super-Resolution for Interferometric Imaging* akademik çalışmasında **Baş Yazar (Lead Undergraduate Author)**.
 
 ### 2. Mekanik Tasarım ve Proje Koordinasyonu
 **YTU Starloop (Hyperloop Takımı)** | *2022 – 2023*
